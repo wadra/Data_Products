@@ -1,0 +1,10 @@
+name: Data_Products
+account: abdulwadood
+server: shinyapps.io
+appId: 93081
+bundleId: 414341
+url: https://abdulwadood.shinyapps.io/Data_Products/
+when: 1460188846.59919
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Consumptiondata..xlsx
